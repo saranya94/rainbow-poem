@@ -1,4 +1,4 @@
-# rainbow-colors and the unicorn
+# rainbow-colors and the unicorn and the pony
 
 
 1.purple
@@ -10,4 +10,4 @@
 7.red
 8.unicorn
 
-these are  the colours of rainbow
+these are  the colours of rainbow and the pony
