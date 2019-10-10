@@ -9,5 +9,6 @@
 6.yellow
 7.red
 8.unicorn
+9.indigo
 
 these are  the colours of rainbow
